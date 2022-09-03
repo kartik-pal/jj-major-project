@@ -21,4 +21,5 @@ Pillow
 keras
 TextBlob
 gensim==3.2.0
-spacy
+spacy-legacy>=3.0.10,<3.1.0
+spacy-loggers>=1.0.0,<2.0.0
