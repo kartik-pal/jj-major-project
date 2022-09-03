@@ -21,4 +21,4 @@ Pillow
 keras
 TextBlob
 gensim==3.2.0
-spacy==2.2.4
+spacy
