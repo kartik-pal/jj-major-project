@@ -20,4 +20,4 @@ nltk
 Pillow
 keras
 TextBlob
-
+gensim.summarization.summarizer
