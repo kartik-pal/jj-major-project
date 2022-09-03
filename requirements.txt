@@ -20,4 +20,4 @@ nltk
 Pillow
 keras
 TextBlob
-gensim==4.0.1
+gensim==0.12.4
