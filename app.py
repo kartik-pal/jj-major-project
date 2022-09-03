@@ -9,7 +9,7 @@ from gensim.summarization.summarizer import summarize
 
 import spacy
 import en_core_web_sm
-nlp = spacy.load("en_core_web_sm")
+nlp = en_core_web_sm.load()
 
 
 from collections import Counter
